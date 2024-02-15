@@ -1,4 +1,4 @@
-# Sign Language Detection using MediaPipe and OpenCV
+# Real-time Hand Gesture Recognition System using MediaPipe and OpenCV
 This project implements real-time hand sign detection using MediaPipe and OpenCV. It detects various hand signs such as B, D, F, G, H, I, LIKE, and DISLIKE based on the hand gestures captured by a webcam.
 ## Table of Contents
 
